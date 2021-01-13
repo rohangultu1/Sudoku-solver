@@ -11,3 +11,4 @@ HOW TO RUN: 1.You just have any IDE to run this program. 2. Just run the program
 HOW TO USE: 1.You will get an output screen where you have been asked to enter number of elements to make the suduko partailly filled. 2.Then you just enter row giving space column giving space number. 3.Once you have put the numbers in the suduko, just run the program and the program will solve the suduko only if suduko is valid.
 
 METHODS/FUNCTION: MAIN FUNCTION: Which have some functions like : 1.safe: Checks whehter the number to be put in particular postition is safe or not(number should not be in same row and column and 33 grid) 2.solving suduko: Which solve the suduko. 3.valid: checks whether the number to be put exists in same column ,row and 33 grid if yes that means suduko is invalid. 4.isfilled: checks whether suduko is completely filled or not(if count is 81 means suduko is completley filled else not completely filled).
+ 
